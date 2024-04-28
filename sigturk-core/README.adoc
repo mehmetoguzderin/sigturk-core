@@ -1,0 +1,7 @@
+# SIGTURK Core Modules
+
+This directory contains the modules following the SIGTURK Core guidelines. Each module includes a core library, comprehensive tests for the core, Python bindings, Node bindings, a Flutter application, and a Python notebook.
+
+## Naming
+
+Following core guidelines, modules restrict names to a single responsibility with the verb base form to aid with scoping, nomination, and discovery. So, `sigturk_core_*_convert_*` rather than `sigturk_core_*_conversion_*` or `sigturk_core_*_converted_*`.

@@ -1,0 +1,9 @@
+name: .conda
+channels:
+  - conda-forge
+dependencies:
+  - pip=24.0
+  - python=3.12.3
+  - pip:
+      - ruff==0.4.2
+prefix: .conda

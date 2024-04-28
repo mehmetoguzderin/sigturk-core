@@ -1,0 +1,5 @@
+# SIGTURK Core
+
+SIGTURK Core is a collection of modules following the SIGTURK Core guidelines for safe, efficient, interoperable, reusable, scalable, and maintainable code through a set of best practices and design patterns that increase typing, decidability, semantic definition, code analyzability, and testability while having an open and welcoming contribution policy and a strong focus on developer experience through static checks and enforced review processes. SIGTURK Core design accommodates a variety of code environments, from small scripts to safety-and-energy-critical embedded libraries to large applications.
+
+SIGTURK Core modules are inside the `sigturk_core` directory. Each module is a separate package that can be installed and used independently.
