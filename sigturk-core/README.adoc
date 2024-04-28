@@ -4,4 +4,4 @@ This directory contains the modules following the SIGTURK Core guidelines. Each 
 
 ## Naming
 
-Following core guidelines, modules restrict names to a single responsibility with the verb base form to aid with scoping, nomination, and discovery. So, `sigturk_core_*_convert_*` rather than `sigturk_core_*_conversion_*` or `sigturk_core_*_converted_*`.
+Following core guidelines, modules restrict names to a single responsibility with the verb base form to aid with scoping, nomination, and discovery. So, `sigturk_core\_\*_convert_*` rather than `sigturk_core\_\*_conversion_*` or `sigturk_core\_\*_converted_*`.
